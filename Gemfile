@@ -2,4 +2,7 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+# Specify your gem's dependencies in exerciciosfaseum.gemspec
+gemspec
+
+gem "rake", "~> 13.0"
